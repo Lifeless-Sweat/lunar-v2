@@ -12,7 +12,7 @@
 
 ---
 
-## Features
+## Features 
 
 - Browser like UI and navigation
 - Fast performance
